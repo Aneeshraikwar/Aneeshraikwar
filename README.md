@@ -1,5 +1,5 @@
 💫 About Me:
-I’m a passionate software engineer with a B.Tech in Computer Science, specializing in full-stack development. I enjoy building efficient and scalable web applications using technologies like C++, HTML, CSS, JavaScript, React.js, Node.js, Express.js, Mongoose, MongoDB, and SQL.
+       I’m a passionate software engineer with a B.Tech in Computer Science, specializing in full-stack development. I enjoy building efficient and scalable web applications using technologies like C++, HTML, CSS, JavaScript, React.js, Node.js, Express.js, Mongoose, MongoDB, and SQL.
 
 I’m focused on creating robust backend APIs with Node.js, Express, and MongoDB, and I’m always excited to learn and apply new technologies. When I’m not coding, you can find me exploring the latest trends in AI and cloud computing.
 
@@ -9,7 +9,7 @@ Feel free to connect with me or explore my projects below!
 Behance LinkedIn
 
 💻 Tech Stack:
-C++ JavaScript HTML5 CSS3 Express.js JWT NodeJS Nodemon NPM MongoDB
+C++ JAVASCRIPT HTML5 CSS3 Express.js JWT NodeJS Nodemon NPM MongoDB Backend 
 
 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aneesh Raikwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
