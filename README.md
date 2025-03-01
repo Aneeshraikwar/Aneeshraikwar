@@ -19,4 +19,5 @@ Behance LinkedIn
 📼 Database: SQL, MySQL, NoSQL, SQL Lite, SQL Server, Oracle,mongodb
 
 🪛 IDE's: VSCode, Android Studio, NetBeans, Visual Studio, Eclipse
+
 🐧 OS: Windows and Linux
