@@ -5,20 +5,18 @@ I’m focused on creating robust backend APIs with Node.js, Express, and MongoDB
 
 Feel free to connect with me or explore my projects below!
 
+⚡ Full Stack Developer
+I make sites, apps, desktop programs, automation and lot type of systems 🤖
+
 🌐 Socials:
-Behance LinkedIn
+Behance LinkedIn 
 
 💻 Tech Stack:
-C++ JAVASCRIPT HTML5 CSS3 Express.js JWT NodeJS Nodemon NPM MongoDB Backend 
+   JAVASCRIPT HTML5 CSS3 
 
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneesh Raikwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+⚔️ JS Family: Node.js, React.js, React Native, Express js
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneesh Raikwar&theme=dark&hide_border=false)
+📼 Database: SQL, MySQL, NoSQL, SQL Lite, SQL Server, Oracle,mongodb
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesh Raikwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aneesh Raikwar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://visitcount.itsvg.in/api?id=Aneesh Raikwar&icon=0&color=0)
+🪛 IDE's: VSCode, Android Studio, NetBeans, Visual Studio, Eclipse
+🐧 OS: Windows and Linux
